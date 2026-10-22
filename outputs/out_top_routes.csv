@@ -1,0 +1,21 @@
+pickup_zone,dropoff_zone,trips,avg_total,avg_duration_min,rnk
+Upper East Side South,Upper East Side North,275892,15.73,7.4,1
+Upper East Side North,Upper East Side South,237803,16.16,8.2,2
+Midtown Center,Upper East Side South,129690,17.48,9.8,3
+Upper East Side South,Midtown Center,114922,17.67,10.6,4
+Midtown Center,Upper East Side North,108190,22.27,13.9,5
+Upper East Side South,Midtown East,105530,16.6,9.1,6
+Upper West Side South,Lincoln Square East,103634,14.59,6.2,7
+Lincoln Square East,Upper West Side South,103311,14.99,6.2,8
+Upper West Side South,Upper West Side North,98001,13.88,5.2,9
+JFK Airport,Times Sq/Theatre District,90983,94.51,60.5,10
+Upper East Side North,Midtown Center,90015,22.44,15.2,11
+Lenox Hill West,Upper East Side North,89977,15.76,7.8,12
+Penn Station/Madison Sq West,Times Sq/Theatre District,83984,21.11,15.4,13
+Midtown East,Upper East Side South,83703,17.07,9.3,14
+Upper West Side North,Upper West Side South,83574,13.71,5.2,15
+Upper East Side North,Lenox Hill West,82996,16.64,8.8,16
+Upper East Side South,Lenox Hill West,81198,14.54,6.6,17
+LaGuardia Airport,Times Sq/Theatre District,81103,79.66,42.4,18
+Upper East Side North,Upper West Side South,79585,17.75,9.1,19
+Lincoln Square East,Upper West Side North,78720,17.37,8.2,20

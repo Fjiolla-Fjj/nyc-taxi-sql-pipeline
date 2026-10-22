@@ -1,0 +1,9 @@
+{
+  "01_bronze_ingest.sql": 5.7,
+  "02_data_quality_checks.sql": 1.2,
+  "03_silver_clean.sql": 43.7,
+  "04_gold_star_schema.sql": 4.3,
+  "05_business_analysis.sql": 0.9,
+  "06_reconciliation.sql": 0.5,
+  "total_seconds": 56.1
+}

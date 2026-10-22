@@ -1,0 +1,10 @@
+reason,rows,pct_of_bronze,total_amount
+00_kept_in_silver,39294806,95.446,1109646437.16
+01_duplicate,5,0.0,85.69
+02_pickup_outside_2024,56,0.0,2274.06
+03_non_positive_duration,13510,0.033,464685.36
+04_duration_over_6h,22001,0.053,769447.28
+05_invalid_distance,765949,1.86,23130855.64
+06_non_positive_fare,686646,1.668,-15256653.98
+07_speed_over_100mph,10489,0.025,452687.53
+08_unknown_zone,376258,0.914,26659306.98

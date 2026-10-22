@@ -1,0 +1,7 @@
+airport,direction,trips,revenue,avg_total,avg_miles
+JFK Airport,From airport,1785336,143874620.27,80.59,15.71
+LaGuardia Airport,From airport,1236964,83242808.45,67.3,9.48
+LaGuardia Airport,To airport,429478,29964381.2,69.77,10.24
+JFK Airport,To airport,348640,31986205.15,91.75,17.31
+Newark Airport,To airport,99376,12806118.56,128.87,17.65
+Newark Airport,From airport,1013,95821.17,94.59,2.71

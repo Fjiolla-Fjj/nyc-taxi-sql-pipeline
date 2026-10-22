@@ -1,0 +1,6 @@
+payment_type,trips,share_pct,avg_tip_pct,avg_tip,pct_trips_tipped
+Credit card,29875332,76.03,25.04,4.31,94.45
+Cash,5206075,13.25,0.0,0.0,0.01
+Flex Fare / Unknown,3683331,9.37,3.63,0.79,16.95
+Dispute,379384,0.97,0.06,0.01,0.1
+No charge,150684,0.38,0.06,0.01,0.09
